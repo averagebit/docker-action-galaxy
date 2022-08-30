@@ -2,7 +2,7 @@
 
 ## Description
 
-Docker image for running the [action-galaxy](https://github.com/averagebit/action-galaxy> Github action.
+Docker image for running the [action-galaxy](https://github.com/averagebit/action-galaxy) Github action.
 
 ## Usage
 
